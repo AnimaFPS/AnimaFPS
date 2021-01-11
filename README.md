@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://animafps.github.io/blog](https://animafps.github.io/blog)
 
-- 📫 How to reach me **animafps@pm.me*
+- 📫 How to reach me **animafps@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
