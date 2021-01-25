@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [FPSMath](https://github.com/AnimaFPS/FPSMath)
 
-- 👨‍💻 All of my projects are available at [https://animafps.github.io](https://animafps.github.io)
+- 👨‍💻 All of my projects are available at [https://animafps.xyz](https://animafps.xyz)
 
-- 📝 I regularly write articles on [https://animafps.github.io/blog](https://animafps.github.io/blog)
+- 📝 I regularly write articles on [https://animafps.xyz/blog](https://animafps.xyz/blog)
 
 - 📫 How to reach me **animafps@pm.me**
 
