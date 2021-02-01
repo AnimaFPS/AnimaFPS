@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animafps&show_icons=true&locale=en&layout=compact" alt="animafps" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animafps&show_icons=true&locale=en" alt="animafps" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=animafps&show_icons=true&locale=en" alt="animafps" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animafps" alt="animafps" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animafps" alt="animafps" /></p>
 
