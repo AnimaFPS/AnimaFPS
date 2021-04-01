@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AnimaFPS</h1>
-<h3 align="center">A passionate 17y/o backend developer from New Zealand</h3>
+<h3 align="center">A passionate 17y/o developer from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animafps&label=Profile%20views&color=0e75b6&style=flat-square" alt="animafps" /> </p>
 
