@@ -20,7 +20,7 @@
 <a href="https://discord.gg/xJdQxps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="xJdQxps" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
