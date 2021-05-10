@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/animafps" target="blank"><img src="https://img.shields.io/twitter/follow/animafps?logo=twitter&style=for-the-badge" alt="animafps" /></a> </p>
 
-- 🔭 I’m currently working on [fpsmath](https://github.com/fpsmath/fpsmath)
+- 🔭 I’m currently working on [fpsmath](https://github.com/fpsmath/fpsmath), [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary)
 
-- 🌱 I’m currently learning **Typescript, C#**
+- 🌱 I’m currently learning **Typescript, Rust**
 
-- 🤝 I’m looking for help with [fpsmath](https://github.com/fpsmath/fpsmath)
+- 🤝 I’m looking for help with [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary)
 
 - 📫 How to reach me **animafps@pm.me**
 
