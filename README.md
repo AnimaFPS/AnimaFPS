@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/animafps" target="blank"><img src="https://img.shields.io/twitter/follow/animafps?logo=twitter&style=for-the-badge" alt="animafps" /></a> </p>
 
-- 🔭 I’m currently working on [fpsmath](https://github.com/fpsmath/fpsmath), [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary)
+- 🔭 I’m currently working on [fpsmath](https://github.com/AnimaFPS/fpsmath), [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary) as well as a secret project
 
 - 🌱 I’m currently learning **Typescript, Rust**
 
