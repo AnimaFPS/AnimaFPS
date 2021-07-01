@@ -31,6 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![](https://raw.githubusercontent.com/AnimaFPS/AnimaFPS/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AnimaFPS/AnimaFPS/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AnimaFPS/AnimaFPS/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animafps&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=animafps&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=animafps&theme=dracula)
