@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=animafps&style=flat-square)
 
-- 🔭 I’m currently working on [fpsmath](https://github.com/AnimaFPS/fpsmath), [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary) as well as a secret project
+- 🔭 I’m currently working on [fpsmath](https://github.com/AnimaFPS/fpsmath), [aiming-taxonomy/glossary](https://github.com/aiming-taxonomy/glossary)
 
 - 🌱 I’m currently learning **Typescript, Rust**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/animafps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="animafps" height="30" width="40" /></a>
 <a href="https://instagram.com/animafps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="animafps" height="30" width="40" /></a>
-<a href="https://medium.com/@animafps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@animafps" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/animafps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="animafps" height="30" width="40" /></a>
 <a href="https://discord.gg/xJdQxps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="xJdQxps" height="30" width="40" /></a>
 </p>
